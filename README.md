@@ -1,2 +1,2 @@
-# git_practicfe
+# git_practice
 My class note.
